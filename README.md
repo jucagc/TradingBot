@@ -1,5 +1,11 @@
 # 📊 Proyecto de Bot de Trading de Bitcoin	📈
 
+<p align="center">
+  <img src="imagenes/bot_trading1.jpeg" alt="Banner" width="600">
+
+</p>
+
+
 ## 📈 Objetivo del Proyecto❕ 
 Este proyecto tiene como objetivo crear un bot de trading
 automatizado que analice el comportamiento del precio de
