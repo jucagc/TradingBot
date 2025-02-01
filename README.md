@@ -1,7 +1,7 @@
 # 📊 Proyecto de Bot de Trading de Bitcoin	📈
 
 <p align="center">
-  <img src="imagenes/bot_trading1.jpeg" alt="Banner" width="600">
+  <img src="imagenes/bot_trading1.jpeg" alt="Bot_Trading" width="350">
 </p>
 
 
