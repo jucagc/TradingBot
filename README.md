@@ -1,4 +1,4 @@
-# 📊 Proyecto de Bot de Trading de Bitcoin	📈
+# 📊 Proyecto de Bot-Trading en Bitcoin	📈
 
 <p align="center">
   <img src="Imagenes/bot_trading1.jpeg" alt="Bot_Trading" width="500">
